@@ -14,13 +14,13 @@ function App() {
     setloading(true)
     setTimeout(() => {
       setloading(false)
-    }, 2400);
+    }, 2500);
   }, [])
 
   return (
     <div>
       {loading ? 
-         <img src={tenor} style={{backgroundColor:"black" ,height:"100vh",width:"100%",position:"center", background: "center"}}/>
+         <img src={tenor} style={{backgroundColor:"black" ,height:"100vh",width:"100%",position:"center", background: "center"}} alt="LOGO"/>
       :
       <div className="App">
         <Nav/>
