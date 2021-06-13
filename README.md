@@ -2,7 +2,7 @@
 **About -- It is a React based web-app, a clone of Netflix style. It shows latest trending movies and shows with their trailer, also recommends you top shows and movies categorised in different generes using TMDB API.....😊**
 
 **For online preview click the link here**
-[TrailerFlix](https://606300ffcc5eae0008bed138--trailerflix-netflix-clone.netlify.app/)
+[TrailerFlix](https://trailerflix-netflix-clone.netlify.app/)
 
 ---
 <h3 align="center"><b>ScreenShot of Actual Preview</b></h3>
